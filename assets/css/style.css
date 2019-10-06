@@ -218,6 +218,11 @@ input[type=submit] {
 
 @media screen and (max-width: 768px){
 
+  .main-section {
+    margin: 5px;
+  }
+  
+
 }
 
 
@@ -249,6 +254,10 @@ input[type=submit] {
   .work {
     left: 15%;
   }
-
+  
+  .auth-image {
+    float: none;
+    width: 100%;
+  }
 
 }
